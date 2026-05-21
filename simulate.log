@@ -1,0 +1,36 @@
+Time resolution is 1 ps
+TIME = 0 | rst = 1 | clk = 0 | cnt = 0 | clk_out = 0
+TIME = 5000 | rst = 1 | clk = 1 | cnt = 0 | clk_out = 0
+TIME = 10000 | rst = 1 | clk = 0 | cnt = 0 | clk_out = 0
+TIME = 15000 | rst = 1 | clk = 1 | cnt = 0 | clk_out = 0
+TIME = 20000 | rst = 0 | clk = 0 | cnt = 0 | clk_out = 0
+TIME = 25000 | rst = 0 | clk = 1 | cnt = 1 | clk_out = 1
+TIME = 30000 | rst = 0 | clk = 0 | cnt = 1 | clk_out = 1
+TIME = 35000 | rst = 0 | clk = 1 | cnt = 2 | clk_out = 0
+TIME = 40000 | rst = 0 | clk = 0 | cnt = 2 | clk_out = 0
+TIME = 45000 | rst = 0 | clk = 1 | cnt = 0 | clk_out = 0
+TIME = 50000 | rst = 0 | clk = 0 | cnt = 0 | clk_out = 0
+TIME = 55000 | rst = 0 | clk = 1 | cnt = 1 | clk_out = 1
+TIME = 60000 | rst = 0 | clk = 0 | cnt = 1 | clk_out = 1
+TIME = 65000 | rst = 0 | clk = 1 | cnt = 2 | clk_out = 0
+TIME = 70000 | rst = 0 | clk = 0 | cnt = 2 | clk_out = 0
+TIME = 75000 | rst = 0 | clk = 1 | cnt = 0 | clk_out = 0
+TIME = 80000 | rst = 0 | clk = 0 | cnt = 0 | clk_out = 0
+TIME = 85000 | rst = 0 | clk = 1 | cnt = 1 | clk_out = 1
+TIME = 90000 | rst = 0 | clk = 0 | cnt = 1 | clk_out = 1
+TIME = 95000 | rst = 0 | clk = 1 | cnt = 2 | clk_out = 0
+TIME = 100000 | rst = 0 | clk = 0 | cnt = 2 | clk_out = 0
+TIME = 105000 | rst = 0 | clk = 1 | cnt = 0 | clk_out = 0
+TIME = 110000 | rst = 0 | clk = 0 | cnt = 0 | clk_out = 0
+TIME = 115000 | rst = 0 | clk = 1 | cnt = 1 | clk_out = 1
+TIME = 120000 | rst = 0 | clk = 0 | cnt = 1 | clk_out = 1
+TIME = 125000 | rst = 0 | clk = 1 | cnt = 2 | clk_out = 0
+TIME = 130000 | rst = 0 | clk = 0 | cnt = 2 | clk_out = 0
+TIME = 135000 | rst = 0 | clk = 1 | cnt = 0 | clk_out = 0
+TIME = 140000 | rst = 0 | clk = 0 | cnt = 0 | clk_out = 0
+TIME = 145000 | rst = 0 | clk = 1 | cnt = 1 | clk_out = 1
+TIME = 150000 | rst = 0 | clk = 0 | cnt = 1 | clk_out = 1
+TIME = 155000 | rst = 0 | clk = 1 | cnt = 2 | clk_out = 0
+TIME = 160000 | rst = 0 | clk = 0 | cnt = 2 | clk_out = 0
+TIME = 165000 | rst = 0 | clk = 1 | cnt = 0 | clk_out = 0
+$finish called at time : 170 ns : File "E:/PRG Files/div3_33.33/div3_33.33.srcs/sim_1/new/div_3_tb.v" Line 62
